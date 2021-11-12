@@ -7,7 +7,7 @@ appVersion: "1.0"
 dependencies:
   - name: pages-api
     version: 1.x.x # version: ~1.0.0
-    repository: http://localhost:8080
+    repository: https://gandhirajan.github.io
   - name: mysql
     version: 1.x.x # version: ^1.0.0
-    repository: http://localhost:8080
+    repository: https://gandhirajan.github.io
